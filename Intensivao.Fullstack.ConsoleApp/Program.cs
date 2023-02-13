@@ -1,3 +1,8 @@
-﻿using Intensivao.Fullstack.ConsoleApp.ExerciciosLogica;
+﻿
 
-Exercicio1.Calcular();
+//Exercicio1.Calcular();
+//Exercicio2.Calcular();
+//Exercicio3.Calcular();
+//Exercicio4.Calcular();
+//Exercicio5.Calcular();
+Exercicio6.Calcular();
